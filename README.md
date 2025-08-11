@@ -1,4 +1,4 @@
-# FashionRetailIntelligence_PredictiveModeling
+# Fashion Retail Intelligence - Predictive Modeling
 This project focuses on building a predictive model to forecast product demand using historical sales and product information.
 
 We experimented with different classification algorithms, tackled class imbalance, tuned hyperparameters, and analyzed feature importance to extract business insights.
